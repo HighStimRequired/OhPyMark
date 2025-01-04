@@ -1,7 +1,3 @@
-Pickle, here’s a succinct yet **professional** README you can adapt for your GitHub project:
-
-***
-
 # **OhPyMark**
 
 A Powerful, Modern, and User-Friendly Markdown Editor
